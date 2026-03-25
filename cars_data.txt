@@ -1,0 +1,5 @@
+1|Toyota|Camry|2021|Silver|28000
+2|Honda|Civic|2020|Blue|22000
+4|BMW|X5|2021|red|65000
+5|Audi|A4|2020|White|32000
+6|Honda|City|2010|grey|18000
